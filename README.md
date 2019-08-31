@@ -1,0 +1,1 @@
+仿EventBus实现的简易EventBus框架。
